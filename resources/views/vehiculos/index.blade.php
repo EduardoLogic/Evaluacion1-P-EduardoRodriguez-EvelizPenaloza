@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-    <h1>Listado de Vehículos - Eduardo Rodriguez C.I: 27.712.316</h1>
+    <h1>Listado de Vehículos - Eduardo Rodriguez Y Eveliz Peñaloza</h1>
 
     <table>
         <thead>
