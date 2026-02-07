@@ -17,7 +17,7 @@ Para levantar este proyecto en un entorno local, siga estos pasos:
 1. Clonar el repositorio:
    `git clone [git clone https://github.com/EduardoLogic/Evaluacion1-P-EduardoRodriguez-EvelizPenaloza.git]`
 2. Entrar a la carpeta:
-   `cd nombre-de-la-carpeta`
+   `cd PracticaLaravel`
 3. Instalar dependencias:
    `composer install`
    `npm install`
